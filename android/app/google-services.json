@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660130328425",
+    "project_id": "reactnativeintern",
+    "storage_bucket": "reactnativeintern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660130328425:android:2570e1fd7d8c53e50f97f8",
+        "android_client_info": {
+          "package_name": "com.turentake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660130328425-9fbhkji64vcn8t4jh6h5j1pi2gnic60l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turentake",
+            "certificate_hash": "916c1367c92077acb747d96ec41d9c754c61a187"
+          }
+        },
+        {
+          "client_id": "660130328425-ouv8jsshnusr102jfsas5q3r1s3nj3k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFs8rvoPkO8fxyKT7zJBIFDF239T3xjk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660130328425-ouv8jsshnusr102jfsas5q3r1s3nj3k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
